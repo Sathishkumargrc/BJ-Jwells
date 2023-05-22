@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>550857332551-dmb5i9q1k1ea8mpv7hm8908ffsj4d1et.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.550857332551-dmb5i9q1k1ea8mpv7hm8908ffsj4d1et</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>550857332551-f7gonkn1nf3so14qf4nt66ahh3a19394.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmT9luqFkhuNV9gL14tPhfodnDnIFLGgw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>550857332551</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tt.bjjewels</string>
+	<key>PROJECT_ID</key>
+	<string>bj-jewells</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bj-jewells.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:550857332551:ios:56ba1554767af6cbca5e62</string>
+</dict>
+</plist>

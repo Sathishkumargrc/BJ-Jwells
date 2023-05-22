@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "550857332551",
+    "project_id": "bj-jewells",
+    "storage_bucket": "bj-jewells.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550857332551:android:a9ca55b127d08c8aca5e62",
+        "android_client_info": {
+          "package_name": "com.bjjewells"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550857332551-f7gonkn1nf3so14qf4nt66ahh3a19394.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bjjewells",
+            "certificate_hash": "abdcaee10fb3319d617012ef2d07819b6b7f5dfe"
+          }
+        },
+        {
+          "client_id": "550857332551-vbi9qoc5otk8vfkbsp9o1274apj8a0sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bjjewells",
+            "certificate_hash": "7a3bb60634fc762f4126d8fe27b05f610a526175"
+          }
+        },
+        {
+          "client_id": "550857332551-poab0kai7lf2qqr4m9itrh6anji5983b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAePAEdC3fwm6WesI0vhKP_lum7veNpcHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550857332551-poab0kai7lf2qqr4m9itrh6anji5983b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
